@@ -13,6 +13,7 @@ public class RedisDemo {
         String ping = jedis.ping();
         System.out.println(ping);
         jedis.close();
+        //ijiji
 
     }
 
